@@ -5,7 +5,7 @@ select*from `loan analysis`;
 
 desc `Loan Analysis`;
 
--- Customer Analysis:
+-- Borrower Analysis:
 
 -- 1.What is the distribution of loans across genders?
 select Gender,count(*) as Loan_count 
